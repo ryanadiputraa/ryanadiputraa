@@ -1,6 +1,6 @@
 ### Hi there, I'm Ryan 👋
 
-[Personal Website][website]
+[www.ryanadiputra.codes][website]
 
 ## I'm a Software Engineer and Informatics Engineering student
 
