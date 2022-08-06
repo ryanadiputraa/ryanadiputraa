@@ -1,7 +1,5 @@
 ### Hi there, I'm Ryan 👋
 
-[www.ryanadiputra.codes][website]
-
 ## I'm a Software Engineer and Informatics Engineering student
 
 ---
