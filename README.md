@@ -31,6 +31,6 @@
 
 <h3 align="left">Github Stats:</h3>
 <div align="left">
-  <img align="center" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ryanadiputraa&theme=dracula" />
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanadiputraa&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ryanadiputraa&theme=react" />
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanadiputraa&layout=compact&langs_count=16&theme=react"/>
 </div>
