@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 
-- 🧑🏻‍💻 A Software Engineer specialized in Backend Engineering mainly using Golang with experiences building full-stack application using NextJS or ReactJS for Frontend development. Last year Informatics Engineering Student at Tadulako Univerity.
+- 🧑🏻‍💻 A Software Engineer specialized in Backend Engineering mainly using Golang with experiences building full-stack application using NextJS or ReactJS for Frontend development. Last year Informatics Engineering Student at Tadulako University.
 
 - 📫 How to reach me **ryannadiputraa@gmail.com**
 
