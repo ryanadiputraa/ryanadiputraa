@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 
-- 🧑🏻‍💻 A Software Engineer specialized in Backend Engineering mainly using Golang with experiences building full-stack application using NextJS or ReactJS for Frontend development. Last year Informatics Engineering Student at Tadulako University.
-
+- 🧑🏻‍💻 I'm a Software Engineer based in Palu, Indonesia. I'm passionate about building software to solve real world problems and learning new things or technology while doing it.
 - 📫 How to reach me **ryannadiputraa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
