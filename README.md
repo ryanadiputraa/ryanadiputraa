@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 
-- 🧑🏻‍💻 I'm a Software Engineer based in Palu, Indonesia. I'm passionate about building software to solve real world problems and learning new things or technology while doing it.
+- 🧑🏻‍💻 I’m a software engineer who enjoys developing software to solve real-world problems and learning new things or technologies while doing it.
 - 📫 How to reach me **ryannadiputraa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
