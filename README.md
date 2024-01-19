@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<a href="https://ryanadiputra.vercel.app/" target="blank" style="display:inline-block; width: 100%; text-align: center; margin-bottom: 1rem; font-size: 1.5rem;">Portfolio Website</a>
 
 - 🧑🏻‍💻 I'm a Software Engineer based in Palu, Indonesia. I'm passionate about building software to solve real world problems and learning new things or technology while doing it.
 - 📫 How to reach me **ryannadiputraa@gmail.com**
