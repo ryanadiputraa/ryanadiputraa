@@ -4,6 +4,8 @@
 
 - 📫 How to reach me **ryannadiputraa@gmail.com**
 
+- 💼 [Personal Website](https://ryanadiputra.my.id)
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ryanadiputraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan adi putra" height="30" width="40" /></a>
